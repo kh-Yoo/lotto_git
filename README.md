@@ -11,13 +11,20 @@ JAVA
 ## 3. 개발 
 
 **1. 회원가입 및 로그인 구현**
+
+
 <img width="<img width="273" height="277" alt="회원가입" src="https://github.com/user-attachments/assets/0a60c041-8840-4f9c-84d7-de8b37a88365" />
-272" height="235" alt="로그인" src="https://github.com/user-attachments/assets/c08a7a0e-f11e-471d-ad25-c9e96ae01a10" />
+<img width="272" height="235" alt="로그인" src="https://github.com/user-attachments/assets/497560be-1c2b-4a35-b745-0edf0d5483bd" />
+
 
 **2. 로또 번호 생성 구현**
+
+
 <img width="283" height="288" alt="로또 생성" src="https://github.com/user-attachments/assets/7768084a-acd1-4fc0-88f8-101e444ce034" />
 
 **3. 최신 당첨 번호 조회**
+
+
 <img width="272" height="125" alt="최신 당첨 번호 조회" src="https://github.com/user-attachments/assets/fda350e2-a027-4bfe-b7c0-7d2dea0cc3f7" />
 
 
