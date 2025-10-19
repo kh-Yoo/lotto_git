@@ -13,7 +13,7 @@ JAVA
 **1. 회원가입 및 로그인 구현**
 
 
-<img width="<img width="273" height="277" alt="회원가입" src="https://github.com/user-attachments/assets/0a60c041-8840-4f9c-84d7-de8b37a88365" />
+<img width="273" height="277" alt="회원가입" src="https://github.com/user-attachments/assets/0a60c041-8840-4f9c-84d7-de8b37a88365" />
 <img width="272" height="235" alt="로그인" src="https://github.com/user-attachments/assets/497560be-1c2b-4a35-b745-0edf0d5483bd" />
 
 
