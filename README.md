@@ -44,4 +44,5 @@ JAVA
 ## 5. 개발 구현 영상
 https://github.com/user-attachments/assets/1492ffd2-667f-4211-98f8-2c98db5154d8
 
-###참여한 사람 : 임진석, 유강현
+### 참여한 사람  
+### 임진석, 유강현
