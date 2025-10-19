@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textDrwNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="4dp"
+            tools:text="제 1100회 (2024-01-01)"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="8dp">
+
+            <TextView android:id="@+id/ball1" style="@style/LottoBallHistory" tools:text="1"/>
+            <TextView android:id="@+id/ball2" style="@style/LottoBallHistory" tools:text="2"/>
+            <TextView android:id="@+id/ball3" style="@style/LottoBallHistory" tools:text="3"/>
+            <TextView android:id="@+id/ball4" style="@style/LottoBallHistory" tools:text="4"/>
+            <TextView android:id="@+id/ball5" style="@style/LottoBallHistory" tools:text="5"/>
+            <TextView android:id="@+id/ball6" style="@style/LottoBallHistory" tools:text="6"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" +"
+                android:textSize="20sp"
+                android:textColor="@android:color/darker_gray"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView android:id="@+id/ballBonus" style="@style/LottoBallHistoryBonus" tools:text="7"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

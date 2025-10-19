@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_marginBottom="8dp"
+    android:background="@android:color/white"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/drwNoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:text="제 1100회 로또" />
+
+    <TextView
+        android:id="@+id/drwDateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="12sp"
+        tools:text="2024-10-01 추첨" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="8dp">
+
+        <TextView android:id="@+id/number1_item" style="@style/LottoBallSmall" tools:text="1"/>
+        <TextView android:id="@+id/number2_item" style="@style/LottoBallSmall" tools:text="2"/>
+        <TextView android:id="@+id/number3_item" style="@style/LottoBallSmall" tools:text="3"/>
+        <TextView android:id="@+id/number4_item" style="@style/LottoBallSmall" tools:text="4"/>
+        <TextView android:id="@+id/number5_item" style="@style/LottoBallSmall" tools:text="5"/>
+        <TextView android:id="@+id/number6_item" style="@style/LottoBallSmall" tools:text="6"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" + "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"/>
+
+        <TextView android:id="@+id/bnusNo_item" style="@style/LottoBallSmall" tools:text="45"/>
+
+    </LinearLayout>
+</LinearLayout>
