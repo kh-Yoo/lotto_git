@@ -1,14 +1,27 @@
-## 1. 개발 환경
+## 목차  
+1. 프로젝트 개요    
+2. 개발 환경  
+3. 사용 언어
+4. 개발  
+5. 개발 구현 영상
+
+## 1. 프로젝트 개요
+로또의 최신 당첨 번호와 로또 생성 예측 번호를 만듬으로서 
+굳이 찾이 필요없이 당첨 번호를 얻을 수 있고
+로또 당첨에 예측하기 위해 나온 숫자들을 가지고 로또를 할 수 있다.
+
+
+## 2. 개발 환경
 ANDROID STUDIO
 
 ![androidlogo](https://user-images.githubusercontent.com/62701551/85113140-c676f000-b251-11ea-8863-d20db586a409.png)
 
-## 2. 사용 언어
+## 3. 사용 언어
 JAVA
 
 ![자바](https://user-images.githubusercontent.com/62701551/85309928-4caf6280-b4ee-11ea-9580-e3d5099bea47.png) 
 
-## 3. 개발 
+## 4. 개발 
 
 **1. 회원가입 및 로그인 구현**
 
@@ -28,5 +41,5 @@ JAVA
 <img width="272" height="125" alt="최신 당첨 번호 조회" src="https://github.com/user-attachments/assets/fda350e2-a027-4bfe-b7c0-7d2dea0cc3f7" />
 
 
-## 4. 개발 결과
+## 5. 개발 구현 영상
 https://github.com/user-attachments/assets/1492ffd2-667f-4211-98f8-2c98db5154d8
